@@ -10,6 +10,7 @@ a =b;
 b = temp;
 cout << "after swapping"<< end1;
 cout <<"a = "<< a << ", b = " << b <<end1;
+cout<<"thank you"<<end;
 return 0;
 }
 
